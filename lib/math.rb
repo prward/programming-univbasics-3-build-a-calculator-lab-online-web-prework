@@ -31,6 +31,6 @@ subtraction(10, 5)
 
 division(50,2)
 
-modulo
+modulo(34, 5)
 
 square_root 81
